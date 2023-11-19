@@ -1,0 +1,16 @@
+.background{
+    background-image: linear-gradient(purple,pink,rgb(255, 230, 0));
+}
+.heading{
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: wheat;
+}
+#camera{
+    height: 500px;
+    width: 400px;
+    border-color:wheat;
+    border-radius: 15cm;
+
+}
